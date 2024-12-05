@@ -19,7 +19,7 @@ def run_trained_model(X):
         # Use the direct download links
         logreg_url = 'https://drive.google.com/uc?id=1-0NnrSjeRaUeQHEvh1BcWXz3Sgdvu_au'
         svm_url = 'https://drive.google.com/uc?id=1-8t9PnxeIscZGLgVHMdo5P7DwBg1RFaS'
-        rf_url = 'https://drive.google.com/uc?id=-5unXlrdSfeVeow-GGBvfki7i5TQEZLy'
+        rf_url = 'https://drive.google.com/uc?id=1-5unXlrdSfeVeow-GGBvfki7i5TQEZLy'
         weights_url = 'https://drive.google.com/uc?id=19nn81lc83qLCgJ5n5gnh2J3eko9cRVw7'
 
         # Paths to save downloaded files
